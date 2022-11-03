@@ -4,9 +4,9 @@
 #include <WiFi.h>  //library WiFi
 #include <PubSubClient.h> // library PubSubClient
 
-#define WIFISSID "Rebstud"                           // Nama Hotspot / WiFi
-#define PASSWORD "tokoyangbaik"                       // Password WiFi
-#define TOKEN "BBFF-SmteKM1ZyEalp181GwytwJUgMozbg8"   // Ubidots TOKEN
+#define WIFISSID "XXXXXX"                           // Nama Hotspot / WiFi
+#define PASSWORD "XXXXXXXXXXXX"                       // Password WiFi
+#define TOKEN "XXXXXXXXXXXXXXXXXXXXXXXX"   // Ubidots TOKEN
 #define MQTT_CLIENT_NAME "smart-parking"
 
 #define VARIABLE_LABEL_1 "jarak" // Nama Variabel 1
